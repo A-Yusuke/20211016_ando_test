@@ -1,0 +1,43 @@
+body {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+header {
+  padding: 10px 0;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.about-title,
+.blog-title,
+.contact-title {
+  padding: 20px 0;
+}
+
+.about span {
+  font-weight: bold;
+}
+
+.blog-article-title {
+  padding: 10px 0;
+  font-weight: bold;
+}
+.form-item-label {
+  font-weight: bold;
+  width: 120px;
+  text-align: center;
+}
+.form-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: 5px;
+}
+.form-item-textarea {
+  height: 100px;
+}
